@@ -1,0 +1,60 @@
+@charset "utf-8";
+.body {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	text-align: center;
+}
+#container {
+	color: #003399;
+	background-color: #666666;
+	margin: auto;
+	width: 760px;
+	border: 2px solid  #336633;
+}
+#header {
+	background-image: url(images/header01.jpg);
+	height: 95px;
+}
+#header_quangcao {
+	float: right;
+	height: 70px;
+	width: 350px;
+}
+#homnay {
+	font-weight: bold;
+	color: #99FF00;
+	text-align: right;
+	float: right;
+	height: 25px;
+	width: 350px;
+	padding-top: 5px;
+}
+#main {
+}
+#leftmain {
+	float: left;
+	width: 150px;
+}
+#rightmain {
+	float: right;
+	width: 150px;
+}
+#thongbao {
+	background-color: #cccccc;
+	height: 25px;
+	margin-right: 150px;
+	margin-left: 150px;
+}
+#content {
+	background-color: #999999;
+	color: #ffff66;
+	margin-right: 150px;
+	margin-left: 150px;
+}
+#footer {
+	background-image: url(images/footer_bg.gif);
+	font-size: 18px;
+	color: #336699;
+	clear: both;
+	height: 90px;
+}
